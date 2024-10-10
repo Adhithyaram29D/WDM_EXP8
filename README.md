@@ -105,9 +105,11 @@ visualize_product_data(products)
 ```
 
 ### Output:
-![Screenshot 2024-10-10 151708](https://github.com/user-attachments/assets/7561e6a5-2751-487c-bf50-09922894d221)
-![image](https://github.com/user-attachments/assets/d82c29e1-5b81-49d1-aaab-7e17d58dfa34)
-![download](https://github.com/user-attachments/assets/92a5f692-b46f-4622-a919-e36a0040c735)
+<img src = "https://github.com/user-attachments/assets/7561e6a5-2751-487c-bf50-09922894d221" width=500 height=500>
+
+<img src = "https://github.com/user-attachments/assets/d82c29e1-5b81-49d1-aaab-7e17d58dfa34" width=500 height=500>
+
+<img src = "https://github.com/user-attachments/assets/92a5f692-b46f-4622-a919-e36a0040c735" width=500 height=500>
 
 
 ### Result:
